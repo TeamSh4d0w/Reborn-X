@@ -2,14 +2,25 @@
 
 
 pkg install upgrade && update
+
 pip install mechanize
+
 pip install bs4 
-pio install future
+
+pip install future
+
 pip install requests 
-pio install lolcat
+
+pip install lolcat
+
 pip install rich 
+
 pip install simplejson
+
 pip install stdiomask 
+
 git clone https://github.com/TeamSh4d0w/Reborn-X
+
 cd Reborn-X
+
 python reborn.py
