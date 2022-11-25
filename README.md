@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.co[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=C81A1F&background=34FF67&width=435&lines=Welcome+to+TEAM-SHADOW'S+terminal+of+justice;New+Facebook+cracking+tool+;Happy+Christmas+in+advance+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4427F7&background=C6FFC3&width=435&lines=New+Facebook+crack+Tool;Always+on+maintenance+;Let's+go+green;Merry+Christmas+in+advance+" alt="Typing SVG" /></a>
 
 
 pkg install upgrade && update
