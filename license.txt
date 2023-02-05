@@ -6,7 +6,7 @@ TEAM(1-0-2-2-6-u-0-_-a-2-2-6)SHADOW (jan 24) 2
 TEAM(1-0-4-9-7-u-0-_-a-4-9-7)SHADOW (jan 24) 2
 
 TEAM(1-0-2-0-6-u-0-_-a-2-0-6)SHADOW 1
-
+TEAM(1-0-2-6-6-u-0-_-a-2-6-6)SHADOW 11
 TEAM(1-0-2-3-4-u-0-_-a-2-3-4)SHADOW 1
 TEAM(1-0-2-5-6-u-0-_-a-2-5-6)SHADOW (jan 26) 4
 TEAM(1-0-2-1-0-u-0-_-a-2-1-0)SHADOW (feb 2) 7
